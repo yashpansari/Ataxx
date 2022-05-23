@@ -1,0 +1,9 @@
+#* java -ea ataxx.Main
+# Play a game as blue against the staff program in strict mode.
+seed 1928382
+auto blue
+block b2
+block c3
+block c4
+#*remote move/win
+quit

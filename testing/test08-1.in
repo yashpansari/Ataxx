@@ -1,0 +1,14 @@
+#* java -ea ataxx.Main
+# Used to better understand how game works
+manual blue
+a7-b7
+g7-f7
+b7-c7
+f7-f6
+c7-d7
+f6-g6
+d7-d6
+f7-e7
+b7-b6
+dump
+quit
